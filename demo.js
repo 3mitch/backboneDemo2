@@ -1,1 +1,0 @@
-var iAmSoCool = true;
